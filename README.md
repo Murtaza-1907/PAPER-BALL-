@@ -1,2 +1,1 @@
-# PAPER-BALL-
-GAME
+# CP-2
