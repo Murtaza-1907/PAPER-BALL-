@@ -28,7 +28,7 @@ function setup() {
 function draw() {
   rectMode(CENTER);
   background(230);
- 
+ console.log(paper1.x,paper1.y)
 
   groundObject.display();
   dustbinObj.display();
