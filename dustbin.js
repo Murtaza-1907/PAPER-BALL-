@@ -54,7 +54,7 @@ class dustbin
 			strokeWeight(4);
 			angleMode(RADIANS)
 			fill(255)
-			image(this.image,0,0,this.dustbinWidth, this.wallThickness);
+			image(this.image,0,-this.dustbinHeight/2,this.dustbinWidth, this.wallThickness);
 		
 			pop()
 			
